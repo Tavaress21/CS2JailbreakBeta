@@ -1,4 +1,5 @@
 # TavaresJB — Jailbreak Plugin for CS2
+If you find any bugs, or want to add features: discord luistavares
 
 Welcome to the official documentation for the **TavaresJB** plugin, a comprehensive Jailbreak solution for Counter-Strike 2, developed using the CounterStrikeSharp framework[cite: 1].
 
