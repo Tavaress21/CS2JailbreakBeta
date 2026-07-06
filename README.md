@@ -48,4 +48,4 @@ The `config.json` file allows for full customization without needing to recompil
 
 ---
 
-*This plugin is currently in version **0.3.0**. For more details, refer to the full technical documentation in **TavaresJB-documentacao.html**[cite: 1].*
+*This plugin is currently in version **0.3.0**. For more details, refer to the full technical documentation in **DISCORD: luistavares.**
