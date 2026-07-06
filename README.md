@@ -70,4 +70,4 @@ The `config.json` file allows for full customization including `VipCostPerDay`, 
 
 ---
 
-*This plugin is currently in version **0.3.0**. For more details, refer to the full technical documentation in ***DISCORD: luistavares***
+*This plugin is currently in version **0.3.0**. For more details, bugs or new features ***DISCORD: luistavares***
